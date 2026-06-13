@@ -1,1 +1,4 @@
 target/
+game_of_life.ll
+game_of_life.ptx
+game_of_life.opt.ll
