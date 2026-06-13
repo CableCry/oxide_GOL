@@ -144,7 +144,6 @@ fn main() {
 
     let duration = start_time.elapsed();
 
-    // 5. Calculate some fun statistics
     let total_secs = duration.as_secs_f64();
     let generations_per_sec = GENERATIONS as f64 / total_secs;
 
